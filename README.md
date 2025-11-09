@@ -14,4 +14,4 @@ Este projeto foi desenvolvido como parte da disciplina de Frontend II.
 - **confirmation.html** – Página de confirmação
 
 ## 🌐 Visualize online
-👉 [Clique aqui para acessar o site](https://felypevargass07max.github.io/Meusite_frontend_II/)
+👉 [Clique aqui para acessar o site](https://felypevargass07max.github.io/Meusite_frontend_II)
